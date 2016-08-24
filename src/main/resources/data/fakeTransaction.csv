@@ -1,0 +1,9 @@
+trans_ctgy,cust_id,trans_amt,trans_date
+restaurant,1,50,20160701
+hotel,1,200,20160702
+restaurant,1,30,20160710
+hotel,1,200,20160715
+music,1,300,20160802
+music,1,300,20160803
+restaurant,2,15,20160710
+restaurant,2,35,20160715
